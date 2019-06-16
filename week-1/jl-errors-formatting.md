@@ -18,6 +18,7 @@ let a = 1:
 ```
 error message:
 ```
+SyntaxError: unexpected token: ':'debugger eval code:1:9
 ```
 classification:
 * creation phase or execution phase ?
